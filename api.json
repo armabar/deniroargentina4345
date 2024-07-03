@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0, "nombre": "Big Deniro", "precio": 1050, "img":"./img/icon_bigdeniro.png", "texto": "hamburguesa con salsa exquisita de autor"
+  },
+  {
+    "id": 1, "nombre": "Caprichosa", "precio": 1500, "img":"./img/icon_caprichosa.png", "texto": "terrible hamburguesa para los mas exigentes"
+  },
+  {
+    "id": 2, "nombre": "Gringa", "precio": 1380, "img":"./img/icon_gringa.png", "texto": "una clasica hamburguesa al estilo europeo"
+  },
+  {
+    "id": 3, "nombre": "Pampernic", "precio": 1420, "img":"./img/icon_pampernic.png", "texto": "una belleza para el paladar de todos"
+  },
+  {
+    "id": 4, "nombre": "Parrillera", "precio": 1100, "img":"./img/icon_parrillera.png", "texto":"para los fanaticos del asado"
+  } 
+]
